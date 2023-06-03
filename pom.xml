@@ -14,8 +14,8 @@
     
     <repositories>
         <repository>
-          <id>libs</id>
-          <url>file://${project.basedir}/lib</url>
+            <id>libs</id>
+            <url>file://${project.basedir}/lib</url>
         </repository>
     </repositories>
     
